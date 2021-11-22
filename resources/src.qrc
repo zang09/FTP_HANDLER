@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>img/ftp.png</file>
+    </qresource>
+</RCC>
